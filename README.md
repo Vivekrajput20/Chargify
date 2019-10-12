@@ -10,7 +10,8 @@ thereby allowing the user to choose the charging point of his choice.
 also has the feature to to mark the location as accessible.
 ● The app gives user the status of charging point, whether in use or not.
 ● The app gives user the approximate time required for the charging point to be
-free, if in use.● The app is properly integrated with Maps where user gets the proper markers
+free, if in use.
+● The app is properly integrated with Maps where user gets the proper markers
 for different kinds of locations, so that the user finds no difficulty in reaching a
 particular location
 # Tech Stack:
@@ -18,7 +19,7 @@ particular location
 ● Django + Django REST Framework
 ● Adobe Illustrator
 # Utility:
-● The app helps the user in critical condition when the battery of the user is
+● The app helps the user in critical condition when the user's battery is
 about to drain in an unfamiliar location.
 ● The app comes handy when the user requires high battery levels in transit.
 # Future Implementation
@@ -32,7 +33,7 @@ reaches a particular location.
 ● The app will use Machine Learning algorithms to judge the availability of
 charging points near a particular location at a future instance.
 # Bugs
-● The frontend is not very pleasing.
+● The frontend is unpleasant.
 ● The feature for marking the private locations friendly is not working properly.
 ● The location is not updated instantaneously so the GPS must be ON for
 minimum 1-2 minutes.
